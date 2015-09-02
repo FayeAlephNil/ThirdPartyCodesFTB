@@ -1,6 +1,8 @@
 {
   "name": "TolkienCraft II",
-  "authors": ["GreatOrator"],
+  "authors": [
+    "GreatOrator"
+    ],
   "code": "tolkienadv2",
   "link": "http://bit.ly/1yWCjqO",
   "mcversion": "1.7.10",
