@@ -2,13 +2,14 @@
 
 This is a community project and will not succeed without your contributions, so first of all, thank you for contributing. Now here are your guidelines
 
-## Forking
-
-The first step in contributing is to make a fork, this is done with the fork button in the upper right hand corner of the github page. To do this you must have made a github account.
 
 ## Git
 
-If you do not know git very well I recommend you do the [Hello World](https://guides.github.com/activities/hello-world/) example on the github guides page
+If you do not know git very well I recommend you do [set up git](https://help.github.com/articles/set-up-git/) and read [getting started with github desktop](https://help.github.com/desktop/guides/getting-started/)
+
+## Forking
+
+The first step in contributing is to make a fork, this is done with the fork button in the upper right hand corner of the github page. To do this you must have made a github account.
 
 ## Making your changes
 
