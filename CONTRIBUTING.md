@@ -8,11 +8,11 @@ The first step in contributing is to make a fork, this is done with the fork but
 
 ## Git
 
-If you do not know git very well I recommend you do the (Hello World)[https://guides.github.com/activities/hello-world/] example on the github guides page
+If you do not know git very well I recommend you do the [Hello World](https://guides.github.com/activities/hello-world/) example on the github guides page
 
 ## Making your changes
 
-Now you will want to download the github app for your operating system, this can be done at (the github desktop website)[http://desktop.github.com/]. After doing so you will want to go to your fork's github page and hit the "Clone in Desktop" button. This will allow you to select a cloning directory. After doing so you will be able to access the directory as normal and be able to add/modify/delete files as you wish
+Now you will want to download the github app for your operating system, this can be done at [the github desktop website](http://desktop.github.com/). After doing so you will want to go to your fork's github page and hit the "Clone in Desktop" button. This will allow you to select a cloning directory. After doing so you will be able to access the directory as normal and be able to add/modify/delete files as you wish
 
 ### Guidelines
 
@@ -28,7 +28,7 @@ All pack files are to be in json with the extension .json in the following forma
 }
 ```
 
-A good example of this is the (tolkiencraft file)[json/tolkiencraft2.json]
+A good example of this is the [tolkiencraft file](json/tolkiencraft2.json)
 
 ## Making a pull request
 
